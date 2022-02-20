@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dishaodedara
+- 👋 Hi, I’m @disha odedara
 - 👀 I’m interested in .project managment & programming..
 - 🌱 I’m currently learning  ..Coding languages.
 - 💞️ I’m looking to collaborate on ...
