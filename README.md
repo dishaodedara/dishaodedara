@@ -1,1 +1,1 @@
-I'm disha Odedara. a student at charotar university. I have pursued Btech in Computer Engineering.I am keen about technologies and more about web development. I have developed some project using MERN stack .
+I'm disha Odedara. a student at charotar university. I have pursued Btech in Computer Engineering.I am keen about technologies and more about web development. I have developed some projects using MERN stack .
